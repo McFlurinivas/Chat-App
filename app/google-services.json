@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150872237223",
+    "project_id": "harinivas-chat-app",
+    "storage_bucket": "harinivas-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150872237223:android:f7558ec96d2677ad16a782",
+        "android_client_info": {
+          "package_name": "com.example.harinivaschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150872237223-j6b3td9r8oleaf0falm3qjhgejk8a60e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntiLrAwIUc_lty4-8cGqAtFGe--HcZcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150872237223-j6b3td9r8oleaf0falm3qjhgejk8a60e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
